@@ -1,22 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="dim_0_5">0.5dp</dimen>
-    <dimen name="dim_2">2dp</dimen>
-    <dimen name="dim_5">5dp</dimen>
-    <dimen name="dim_8">8dp</dimen>
-    <dimen name="dim_10">10dp</dimen>
-    <dimen name="dim_12">12dp</dimen>
-    <dimen name="dim_40">40dp</dimen>
-    <dimen name="dim_45">45dp</dimen>
-    <dimen name="dim_65">65dp</dimen>
-
-
-    <!--for text size-->
-    <dimen name="text_size_10">10sp</dimen>
-    <dimen name="text_size_12">12sp</dimen>
-    <dimen name="text_size_14">14sp</dimen>
-    <dimen name="text_size_16">16sp</dimen>
-    <dimen name="text_size_18">18sp</dimen>
-    <dimen name="text_size_25">25sp</dimen>
-
+    <dimen name="fab_margin">16dp</dimen>
 </resources>
